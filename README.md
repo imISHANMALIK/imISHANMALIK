@@ -1,53 +1,105 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVwdXI0dmg1MHlwYjVnYXg4NGppMTVhdzNpZGFuZDI3a3VqMGl1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Developer;I+Love+Coding;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Ishan+Malik;MS+Data+Science+@+NYU;AI+Specialist;Finance+%26+Data+Science+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
+<br/>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>⚡ About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Self-Supervised Learning & Distributed Systems</strong></li>
+        <li>🌱 I’m currently researching <strong>Computational Genetics & Healthcare AI</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>AI-driven Medical Prediction Applications</strong></li>
+        <li>💬 Ask me about <strong>NLP, Computer Vision, Optimal Transport, and Cloud</strong></li>
+        <li>⚡ Fun fact: <strong>I built an AI chatbot that reduced manual support queries by 40%!</strong></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="center">
+      <img src="https://www.nyu.edu/content/nyu/en/employees/resources-and-services/media-and-communications/nyu-brand-guidelines/designing-in-our-style/nyu-logos-and-university-seal/using-logos-and-lockups/jcr:content/1/par-left/nyucolumncontrol_22745558/1/nyuimage.img.1280.high.png/1646846643888.png" width="500" />
+      <br/><br/>
+      <img src="" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-### ⚡ About Me
+### 🚀 Technical Arsenal
 
-- 🔭 I’m currently working on **something cool**
-- 🌱 I’m currently learning **Advanced AI & Machine Learning**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, and Cloud Architecture**
-- ⚡ Fun fact: **I can center a div!**
+**🧠 AI & Data Science**
+<div align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
 
----
+<br/>
 
-### 🛠️ Languages and Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+**☁️ Cloud & Distributed Systems**
+<div align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+</div>
+
+<br/>
+
+**💻 Languages**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🔬 Featured Research & Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **EnamelX (Dental AI)** | YOLO-based model classifying dental pathologies from X-rays with **>80% IoU**. | `Python` `YOLOv8` `Roboflow` |
+| **Disease Modeling (CMU)** | Research on **Optimal Transport** for large-scale disease progression modeling. | `Optimal Transport` `Python` `Biomedical AI` |
+| **VERDANT (Wellness)** | NLP-driven wellness platform; **Microsoft Imagine Cup Round 2** qualifier. | `Azure AI` `NLP` `Vercel` |
+| **Fog-Centric IoT** | Real-time diabetes monitoring on Fog nodes with **>85% accuracy**. | `IoT` `Edge Computing` `ML` |
+
+---
+
+### 📚 Publications
+
+> *An active contributor at the NYU Center for Data Science.*
+
+* 📖 **Book Chapter:** *"Validation and Evaluation Matrix"* in *Computer-Assisted Analysis for Digital Medicinal Imagery* (Oct 2024).
+* 📝 **Paper:** *"Improving Fake News Detection using AI"* - Presented at IEEE Global AI Summit 2024.
+* 📊 **Paper:** *"Measures of Difficulty Index..."* - Presented at SISD 2025 (Christ University).
+
+---
+
+### 📊 GitHub Stats & Fun
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" alt="streak stats"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" width="400" />
   
+  <br/> <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</div>
-
----
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
@@ -57,11 +109,12 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:jm2854@nyu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <br/>
   <br/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+  <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXRlbHg4Njh5NnJkZTR2dGY2cW9qbXp6dGRjbjZnaWh1eWtld292eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif"width = "300"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 </div>
