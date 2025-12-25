@@ -12,10 +12,10 @@
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **Self-Supervised Learning & Distributed Systems**
-- 🌱 I’m currently researching **Computational Genetics & Healthcare AI**
-- 👯 I’m looking to collaborate on **AI-driven Medical Prediction Applications**
-- 💬 Ask me about **NLP, Computer Vision, Optimal Transport, and Cloud**
+- 🔭 I’m currently working on **AI in Finance**
+- 🌱 I’m currently researching **Machine Learning using Priviledged Learning**
+- 👯 I’m looking to collaborate on **AI-driven Financial Time-Series Prediction Applications**
+- 💬 Ask me about **AI, Data Science, ML, Deep Learning, NLP, LLMs, Computer Vision and Research**
 - ⚡ Fun fact: **I built an AI chatbot that reduced manual support queries by 40%!**
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Technical Arsenal
+### 🚀 Technical Know-How
 
 **🧠 AI & Data Science**
 <div align="left">
@@ -66,28 +66,26 @@
 | :--- | :--- | :--- |
 | **EnamelX (Dental AI)** | YOLO-based model classifying dental pathologies from X-rays with **>80% IoU**. | `Python` `YOLOv8` `Roboflow` |
 | **Disease Modeling (CMU)** | Research on **Optimal Transport** for large-scale disease progression modeling. | `Optimal Transport` `Python` `Biomedical AI` |
-| **VERDANT (Wellness)** | NLP-driven wellness platform; **Microsoft Imagine Cup Round 2** qualifier. | `Azure AI` `NLP` `Vercel` |
-| **Fog-Centric IoT** | Real-time diabetes monitoring on Fog nodes with **>85% accuracy**. | `IoT` `Edge Computing` `ML` |
+| **VERDANT (AI-based Wellness App)** | AI-driven wellness platform; **Microsoft Imagine Cup Round 2** qualifier. | `Azure AI` `NLP` `Vercel` |
+| **Fog-Centric IoT** | Real-time **diabetes** monitoring on Fog nodes with **>85% accuracy**. | `IoT` `Edge Computing` `ML` |
 
 ---
 
 ### 📚 Publications
 
-> *An active contributor at the NYU Center for Data Science.*
+> *An active contributor at the **NYU Center for Data Science**.*
 
 * 📖 **Book Chapter:** *"Validation and Evaluation Matrix"* in *Computer-Assisted Analysis for Digital Medicinal Imagery* (Oct 2024).
-* 📝 **Paper:** *"Improving Fake News Detection using AI"* - Presented at IEEE Global AI Summit 2024.
-* 📊 **Paper:** *"Measures of Difficulty Index..."* - Presented at SISD 2025 (Christ University).
-
+* 📝 **Paper:** *"Truth in the Age of Misinformation: A Dual-Approach Model for Improved Fake News Detection"* - Published in *IEEE Xplore*, Presented at *IEEE Global AI Summit 2024*.
+* 📊 **Paper:** *"Measures of Difficulty Index of Various Sets of Multiple-Choice Questionnaires"* - Published in *Journal of Emerging Technologies and Innovative Research (JETIR)* (Sep 2024).
+  
 ---
 
-### 📊 GitHub Stats & Fun
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" width="400" />
-  
-  <br/> <br/>
-
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imISHANMALIK&theme=radical&hide_border=false" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=imISHANMALIK&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </div>
@@ -96,8 +94,9 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=imISHANMALIK&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
----
 
+---
+<br/>
 <div align="center">
   <h3>Let's Connect!</h3>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
