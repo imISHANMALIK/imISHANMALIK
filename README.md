@@ -4,31 +4,26 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Ishan+Malik;MS+Data+Science+@+NYU;AI+Specialist;Finance+%26+Data+Science+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=500&color=F7B32B&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Ishan+Malik;MS+Data+Science+@+NYU;AI+Specialist;Data+Science+Enthusiast;Passion+for+Finance" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🔭 I’m currently working on <strong>Self-Supervised Learning & Distributed Systems</strong></li>
-        <li>🌱 I’m currently researching <strong>Computational Genetics & Healthcare AI</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>AI-driven Medical Prediction Applications</strong></li>
-        <li>💬 Ask me about <strong>NLP, Computer Vision, Optimal Transport, and Cloud</strong></li>
-        <li>⚡ Fun fact: <strong>I built an AI chatbot that reduced manual support queries by 40%!</strong></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://www.nyu.edu/content/nyu/en/employees/resources-and-services/media-and-communications/nyu-brand-guidelines/designing-in-our-style/nyu-logos-and-university-seal/using-logos-and-lockups/jcr:content/1/par-left/nyucolumncontrol_22745558/1/nyuimage.img.1280.high.png/1646846643888.png" width="500" />
-      <br/><br/>
-      <img src="" />
-    </td>
-  </tr>
-</table>
+### ⚡ About Me
+
+- 🔭 I’m currently working on **Self-Supervised Learning & Distributed Systems**
+- 🌱 I’m currently researching **Computational Genetics & Healthcare AI**
+- 👯 I’m looking to collaborate on **AI-driven Medical Prediction Applications**
+- 💬 Ask me about **NLP, Computer Vision, Optimal Transport, and Cloud**
+- ⚡ Fun fact: **I built an AI chatbot that reduced manual support queries by 40%!**
+
+<div align="center">
+  <br/>
+  <img src="https://www.nyu.edu/content/nyu/en/employees/resources-and-services/media-and-communications/nyu-brand-guidelines/designing-in-our-style/nyu-logos-and-university-seal/using-logos-and-lockups/jcr:content/1/par-left/nyucolumncontrol_22745558/1/nyuimage.img.1280.high.png/1646846643888.png" width="250" />
+  <br/> <br/>
+  <img src="https://img.shields.io/badge/Center_for-Data_Science-57068c?style=for-the-badge&logo=newyorkuniversity&logoColor=white" />
+</div>
 
 ---
 
@@ -93,15 +88,14 @@
   
   <br/> <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imISHANMALIK&theme=radical&hide_border=false" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imISHANMALIK&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imISHANMALIK&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
-
 ---
 
 <div align="center">
