@@ -85,8 +85,6 @@
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" width="400" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imISHANMALIK&theme=radical&hide_border=false" alt="streak stats"/>
 </div>
 
 <div align="center">
