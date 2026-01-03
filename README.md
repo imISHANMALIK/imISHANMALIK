@@ -86,14 +86,10 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" width="400" />
 </div>
-
 <div align="center">
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=imISHANMALIK&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
-
 ---
-<br/>
 <div align="center">
   <h3>Let's Connect!</h3>
   <a href="https://linkedin.com/in/ishanmalik108">
